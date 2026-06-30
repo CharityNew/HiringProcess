@@ -1,4 +1,4 @@
-const util = require('path-internal-util');
+const util = require('buffer-util-internal');
 
 module.exports = {
   plugins: {
